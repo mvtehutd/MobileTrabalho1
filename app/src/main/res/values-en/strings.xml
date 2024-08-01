@@ -1,0 +1,32 @@
+<resources>
+    /// Gerais
+    <string name="app_name">Mata Mata</string>
+    <string name="rota_jogos">Scores</string>
+    <string name="rota_campeonatos">Competitions</string>
+    /// Botões
+    <string name="voltar">Back</string>
+    <string name="recarregar">Reload</string>
+    <string name="excluir_palpite">Delete Prediction</string>
+    <string name="empate">Draw</string>
+    /// Lances
+    <string name="gol">Goal</string>
+    <string name="gol_penalti">Penalty Goal</string>
+    <string name="gol_contra">Own Goal</string>
+    <string name="cartao_amarelo">Yellow Card</string>
+    <string name="segundo_cartao_amarelo">Second Yellow Card</string>
+    <string name="cartao_vermelho">Red Card</string>
+    <string name="substituicao">Substitution</string>
+    <string name="penalti_perdido">Missed Penalty</string>
+    <string name="var">VAR</string>
+    /// Tabela
+    <string name="time">Team</string>
+    <string name="pontos">PTS</string>
+    <string name="jogos">P</string>
+    <string name="vitorias">W</string>
+    <string name="empates">D</string>
+    <string name="derrotas">L</string>
+    <string name="gols_pro">GF</string>
+    <string name="gols_contra">GA</string>
+    <string name="saldo_gols">GD</string>
+    <string name="aproveitamento">%</string>
+</resources>

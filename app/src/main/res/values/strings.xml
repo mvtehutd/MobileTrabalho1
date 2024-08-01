@@ -1,0 +1,32 @@
+<resources>
+    /// Gerais
+    <string name="app_name">Mata Mata</string>
+    <string name="rota_jogos">Jogos</string>
+    <string name="rota_campeonatos">Campeonatos</string>
+    /// Botões
+    <string name="voltar">Voltar</string>
+    <string name="recarregar">Recarregar</string>
+    <string name="excluir_palpite">Excluir Palpite</string>
+    <string name="empate">Empate</string>
+    /// Lances
+    <string name="gol">Gol</string>
+    <string name="gol_penalti">Gol de Pênalti</string>
+    <string name="gol_contra">Gol Contra</string>
+    <string name="cartao_amarelo">Cartão Amarelo</string>
+    <string name="segundo_cartao_amarelo">Segundo Cartão Amarelo</string>
+    <string name="cartao_vermelho">Cartão Vermelho</string>
+    <string name="substituicao">Substituição</string>
+    <string name="penalti_perdido">Pênalti Perdido</string>
+    <string name="var">VAR</string>
+    /// Tabela
+    <string name="time">Time</string>
+    <string name="pontos">P</string>
+    <string name="jogos">J</string>
+    <string name="vitorias">V</string>
+    <string name="empates">E</string>
+    <string name="derrotas">D</string>
+    <string name="gols_pro">GP</string>
+    <string name="gols_contra">GC</string>
+    <string name="saldo_gols">SG</string>
+    <string name="aproveitamento">%</string>
+</resources>
